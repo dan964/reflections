@@ -1,0 +1,3 @@
+When you create arepository git vreates a hidden file that contains all the metadata about your repository.It does not reate initial commit for you sou you have to do it  yourself. Not all files need to be added to commit- you can pick what to add.
+
+Staging area contains all the files you are going to commit next time. It is a narrower concept compared to working directory that may contain other files you do not intend to make a part of your repository. Repository is between those two in terms of width of the concept.
