@@ -3,3 +3,5 @@ When you create arepository git vreates a hidden file that contains all the meta
 Staging area contains all the files you are going to commit next time. It is a narrower concept compared to working directory that may contain other files you do not intend to make a part of your repository. Repository is between those two in terms of width of the concept.
 
 Only add the files necessary to staging area before commit to make sure each cnahge is logically a single unit.
+
+Branches are useful to keep separate versions of the code, like temporary localization or trying new feature
