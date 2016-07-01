@@ -1,0 +1,13 @@
+
+
+
+Having changes history for the whole set of changes made to the code enables you to track down errors or return to older solutions.
+
+THe pros of automatic commits is that you wont have to worry about them. The cons are that they may not be logical and understandable.
+The pros and cons of manual commits are reversed.
+
+Simultaneous  commit of all related files together makes sense given changes in one of them are logically related to the other. This is specific for something like programming code, but not for some other types of fies.
+
+Git log is used to see list of commits with some info about them. Git diff is used to see the differences between two commits. It is unclear if those have to be consecutive commits or it can be any two. The older commit id goes first.
+
+It eeems using version control gives you more freedom to make changes and not be afraid of ruining something as long as you keep committing 
