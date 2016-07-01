@@ -5,3 +5,5 @@ Staging area contains all the files you are going to commit next time. It is a n
 Only add the files necessary to staging area before commit to make sure each cnahge is logically a single unit.
 
 Branches are useful to keep separate versions of the code, like temporary localization or trying new feature
+
+Diagrams are super helpful to visualise the structure of the branch structures. You could use git log with --graph key to show it as a tree, and also use --oneline key to format output to single line per commit
