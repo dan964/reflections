@@ -7,3 +7,5 @@ Only add the files necessary to staging area before commit to make sure each cna
 Branches are useful to keep separate versions of the code, like temporary localization or trying new feature
 
 Diagrams are super helpful to visualise the structure of the branch structures. You could use git log with --graph key to show it as a tree, and also use --oneline key to format output to single line per commit
+
+Merging two branches takes changes made in both branches and adds both of them to the final commit. The merged version gets a branch name of the branch checked out right before the merge. You may want to delete the unnecessary label from the commit of the branch that was merged into the cheched out branch. To do so use git branch -d branch_label_to_delete_name
