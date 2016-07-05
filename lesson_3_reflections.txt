@@ -1,1 +1,3 @@
 So you can work from multiple computers if needed and collaborate with others. Neat.
+
+if github was to automatically pull changes into my local repository that would deprive me of control over the changes happening. It makes sense to do this manually instead when I think it is reasonable.
